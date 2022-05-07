@@ -1,7 +1,9 @@
 # Github Timeline
 
-### React based app to generate a vertical timeline of your repositories 
+### React based app to generate a vertical timeline of your repositories.
 
+<a href="https://react-github-timeline.netlify.app" target="_blank"> Link to the Project </a>
+    
 <p><i><b>Visualise your repositories in more organised way and use it to show your employers</b></i></p>
 
 ![github-timeline 1](https://user-images.githubusercontent.com/64327599/167270772-613b6ea0-cd00-43f9-9337-2736f4c596f2.png)
